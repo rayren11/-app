@@ -8,8 +8,7 @@
   <br />
 <br />
 
-已经发布在小众软件发现频道，大爱小众[meta.appinn.net](https://meta.appinn.net)
-
+已经使用MIT2开源
 <br />
 
 已发布了使用帮助文档 [https://www.yuque.com/rayren/app]
